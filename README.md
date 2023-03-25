@@ -8,8 +8,8 @@
 <H2> 🍀 About Me 🍀 </H2>
 <img align="left" alt="Personal Picture" src="austin.jpg" width="200" height="250" /> &nbsp;&nbsp;
 
-<p> 🔭 I’m currently working on a privacy-preserving decision tree paper to submit for [CCS '23](https://www.sigsac.org/ccs/CCS2023/) </p>
-<p>🌱 I’m currently learning about how to use [LAVA](https://github.com/panda-re/lava) and improve it for my dissertation </p>
+<p> 🔭 I’m currently working on a privacy-preserving decision tree paper to submit for CCS '23 </p>
+<p>🌱 I’m currently learning about how to use Large Scale Automated Vulnerability Addition (LAVA) and improve LAVA for my dissertation paper</p>
 <p> 💬 Ask me about fun things to do in NYC </p>
 <p> ⚡ Fun fact: I am quite the captivating story teller, trouble follows me like a lost puppy</p>
 
